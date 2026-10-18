@@ -3,10 +3,8 @@
 MSc Computer Science student at **Vrije Universiteit Amsterdam & University of Amsterdam** (joint degree), specialising in **Software Engineering and Green IT**.
 BSc in Computer Science from the **University of Verona**.
 
-- 🌱 Interested in energy-efficient software and sustainable systems
-- 🔬 Currently running green-software experiments on Android energy consumption
-- 💼 Looking for a software engineering internship
-- 📫 claudia.cretti@student.uva.nl · [LinkedIn](https://www.linkedin.com/in/c-cretti)
+Looking for a software engineering internship
+claudia.cretti@student.uva.nl · [LinkedIn](https://www.linkedin.com/in/c-cretti)
 
 ### 🛠️ Tech
 Java · JavaFX · Python · C · x86 Assembly · PHP · MySQL · HTML/CSS/JS · Git · Docker
